@@ -4,7 +4,6 @@ public class Question4 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the size of the triangle: ");
         int size = in.nextInt();
 
         // Loop to control rows
