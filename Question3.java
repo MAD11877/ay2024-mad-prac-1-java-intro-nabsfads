@@ -11,9 +11,8 @@ public class Question3 {
 
         System.out.println(result);
     }
-
-    // Method to multiply a number by itself
     public static int multiplyByItself(int num) {
         return num * num;
     }
 }
+//print
